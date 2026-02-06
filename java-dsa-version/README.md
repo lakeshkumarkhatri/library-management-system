@@ -7,7 +7,6 @@ It is an enhancement of the Semester 2 Java Swing + DBMS project, with a focus o
 ## Key Improvements Over Semester 2
 - Introduction of Data Structures for internal data handling
 - Separation of responsibilities into multiple classes
-- Improved issue/return logic
 - Better maintainability and readability
 - Database-backed persistence with structured access
 
@@ -28,6 +27,13 @@ java-dsa-version/
 │ ├── DatabaseManager.java
 │ ├── LibraryData.java
 │ ├── LibraryUI.java
+
+## Planned Enhancements
+- Issue and return book functionality
+- Advanced data structures for faster lookups
+- Improved validation and business rules
+- Layered architecture (UI / Service / Data)
+
 
 ## Database Setup (Retained from Previous Version)
 
