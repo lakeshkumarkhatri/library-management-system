@@ -20,4 +20,4 @@ with MySQL database integration as part of my second semester academic project.
 - Multiple classes are implemented within a single Java file
 - MySQL Connector/J is required to run this project
 
-Status: Semester 2 Academic Project
+Project structure finalized for Semester 2.
